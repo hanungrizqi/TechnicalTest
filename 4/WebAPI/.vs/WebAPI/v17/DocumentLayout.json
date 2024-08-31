@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technical Test\\4\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0211E1AE-25DB-4777-8BF6-D80927558141}|WebAPI.Tests\\WebAPI.Tests.csproj|d:\\technical test\\4\\webapi\\webapi.tests\\getcustomerhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211E1AE-25DB-4777-8BF6-D80927558141}|WebAPI.Tests\\WebAPI.Tests.csproj|solutionrelative:webapi.tests\\getcustomerhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211E1AE-25DB-4777-8BF6-D80927558141}|WebAPI.Tests\\WebAPI.Tests.csproj|d:\\technical test\\4\\webapi\\webapi.tests\\crudcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211E1AE-25DB-4777-8BF6-D80927558141}|WebAPI.Tests\\WebAPI.Tests.csproj|solutionrelative:webapi.tests\\crudcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F110F07-1B7A-4B37-AF59-4357B71515C5}|Persistence\\Persistence.csproj|d:\\technical test\\4\\webapi\\persistence\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F110F07-1B7A-4B37-AF59-4357B71515C5}|Persistence\\Persistence.csproj|solutionrelative:persistence\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\deletecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\deletecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\getallcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\getallcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\updatecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\updatecustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|d:\\technical test\\4\\webapi\\application\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADAD961-2CD5-4C9A-A6E6-101297EA3797}|Application\\Application.csproj|solutionrelative:application\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|d:\\technical test\\4\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|d:\\technical test\\4\\webapi\\webapi\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|d:\\technical test\\4\\webapi\\webapi\\cls\\clscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1EC133-1D57-45BD-8B89-AB7D321E548B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\cls\\clscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CRUDController.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Controllers\\CRUDController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CRUDController.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Controllers\\CRUDController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CRUDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:12:45.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:20:00.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDControllerTests.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\WebAPI.Tests\\CRUDControllerTests.cs",
+              "RelativeDocumentMoniker": "WebAPI.Tests\\CRUDControllerTests.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\WebAPI.Tests\\CRUDControllerTests.cs",
+              "RelativeToolTip": "WebAPI.Tests\\CRUDControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:28:43.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_dbContext.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Persistence\\_dbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\_dbContext.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Persistence\\_dbContext.cs",
+              "RelativeToolTip": "Persistence\\_dbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:06:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCustomerHandlerTests.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\WebAPI.Tests\\GetCustomerHandlerTests.cs",
+              "RelativeDocumentMoniker": "WebAPI.Tests\\GetCustomerHandlerTests.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\WebAPI.Tests\\GetCustomerHandlerTests.cs",
+              "RelativeToolTip": "WebAPI.Tests\\GetCustomerHandlerTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:32:19.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "Application\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:42:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\CreateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CreateCustomerHandler.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\CreateCustomerHandler.cs",
+              "RelativeToolTip": "Application\\CreateCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:42:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "Application\\CustomerValidator.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\CustomerValidator.cs",
+              "RelativeToolTip": "Application\\CustomerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:58:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\DeleteCustomerCommand.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "Application\\DeleteCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:44:08.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\DeleteCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Application\\DeleteCustomerHandler.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\DeleteCustomerHandler.cs",
+              "RelativeToolTip": "Application\\DeleteCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:44:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllCustomersHandler.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\GetAllCustomersHandler.cs",
+              "RelativeDocumentMoniker": "Application\\GetAllCustomersHandler.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\GetAllCustomersHandler.cs",
+              "RelativeToolTip": "Application\\GetAllCustomersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:41:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCustomerQuery.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\GetCustomerQuery.cs",
+              "RelativeDocumentMoniker": "Application\\GetCustomerQuery.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\GetCustomerQuery.cs",
+              "RelativeToolTip": "Application\\GetCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:36:02.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\UpdateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UpdateCustomerHandler.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\UpdateCustomerHandler.cs",
+              "RelativeToolTip": "Application\\UpdateCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:43:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UpdateCustomerCommand.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "Application\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:43:20.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetCustomerHandler.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\GetCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Application\\GetCustomerHandler.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\GetCustomerHandler.cs",
+              "RelativeToolTip": "Application\\GetCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:37:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCustomersQuery.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\Application\\GetAllCustomersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\GetAllCustomersQuery.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\Application\\GetAllCustomersQuery.cs",
+              "RelativeToolTip": "Application\\GetAllCustomersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:41:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClsCRUD.cs",
+              "DocumentMoniker": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Cls\\ClsCRUD.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Cls\\ClsCRUD.cs",
+              "ToolTip": "D:\\Technical Test\\4\\WebAPI\\WebAPI\\Cls\\ClsCRUD.cs",
+              "RelativeToolTip": "WebAPI\\Cls\\ClsCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:19:01.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

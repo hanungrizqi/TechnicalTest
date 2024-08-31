@@ -1,0 +1,15 @@
+D:\Technical Test\4\WebAPI\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Technical Test\4\WebAPI\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Technical Test\4\WebAPI\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Technical Test\4\WebAPI\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Technical Test\4\WebAPI\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Technical Test\4\WebAPI\Persistence\obj\Debug\net8.0\ref\Persistence.dll

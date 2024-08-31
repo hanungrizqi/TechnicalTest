@@ -1,0 +1,12 @@
+D:\Technical Test\4\WebAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Technical Test\4\WebAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\Technical Test\4\WebAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Technical Test\4\WebAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

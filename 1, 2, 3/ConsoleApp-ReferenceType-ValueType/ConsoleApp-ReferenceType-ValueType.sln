@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp-ReferenceType-ValueType", "ConsoleApp-ReferenceType-ValueType\ConsoleApp-ReferenceType-ValueType.csproj", "{0F89E3D5-3899-4988-9D0F-19EF01E95B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp-Palindromik", "ConsoleApp-Palindromik\ConsoleApp-Palindromik.csproj", "{93D3EC8B-9AB2-4E0B-AFF0-8861E0B8C910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp-Fibonacci", "ConsoleApp-Fibonacci\ConsoleApp-Fibonacci.csproj", "{D851BDD7-6938-49DB-889A-A3C6686E294C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F89E3D5-3899-4988-9D0F-19EF01E95B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F89E3D5-3899-4988-9D0F-19EF01E95B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F89E3D5-3899-4988-9D0F-19EF01E95B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F89E3D5-3899-4988-9D0F-19EF01E95B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D3EC8B-9AB2-4E0B-AFF0-8861E0B8C910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D3EC8B-9AB2-4E0B-AFF0-8861E0B8C910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D3EC8B-9AB2-4E0B-AFF0-8861E0B8C910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D3EC8B-9AB2-4E0B-AFF0-8861E0B8C910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D851BDD7-6938-49DB-889A-A3C6686E294C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D851BDD7-6938-49DB-889A-A3C6686E294C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D851BDD7-6938-49DB-889A-A3C6686E294C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D851BDD7-6938-49DB-889A-A3C6686E294C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA162042-DC3F-4002-AA17-C13DC9DFF277}
+	EndGlobalSection
+EndGlobal
