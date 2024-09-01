@@ -16,7 +16,7 @@ namespace WebAPI.Tests.Handlers
         {
             // Arrange
             var options = new DbContextOptionsBuilder<_dbContext>()
-                .UseInMemoryDatabase(databaseName: "TestDatabase")
+                .UseInMemoryDatabase(databaseName: "DB_TECHNICAL_TEST")
                 .Options;
 
             using var context = new _dbContext(options);
@@ -38,7 +38,7 @@ namespace WebAPI.Tests.Handlers
         {
             // Arrange
             var options = new DbContextOptionsBuilder<_dbContext>()
-                .UseInMemoryDatabase(databaseName: "TestDatabase")
+                .UseInMemoryDatabase(databaseName: "DB_TECHNICAL_TEST")
                 .Options;
 
             using var context = new _dbContext(options);
