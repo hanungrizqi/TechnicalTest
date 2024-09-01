@@ -55,12 +55,20 @@ namespace WebAPI.Controllers
             }
 
             var createdCustomer = await _mediator.Send(command);
-            return new ApiResponse<Customer>("Customer created successfully", Guid.NewGuid().ToString(), createdCustomer);
+
+            if (createdCustomer == null)
+            {
+                return BadRequest(new ApiResponse<Customer>("Failed to create customer", Guid.NewGuid().ToString(), null));
+            }
+
+            var response = new ApiResponse<Customer>("Customer created successfully", Guid.NewGuid().ToString(), createdCustomer);
+
+            return CreatedAtAction(nameof(GetCustomer), new { id = createdCustomer.CustomerId }, response);
         }
 
         // PUT: api/CRUD/5
         [HttpPut("{id}")]
-        public async Task<ActionResult<ApiResponse<string>>> PutCustomer(int id, UpdateCustomerCommand command)
+        public async Task<ActionResult<ApiResponse<Customer>>> PutCustomer(int id, UpdateCustomerCommand command)
         {
             if (!ModelState.IsValid)
             {
@@ -72,10 +80,11 @@ namespace WebAPI.Controllers
 
             if (!updated)
             {
-                return new ApiResponse<string>("Customer not found or invalid ID", Guid.NewGuid().ToString(), null);
+                return NotFound(new ApiResponse<Customer>("Customer not found or invalid ID", Guid.NewGuid().ToString(), null));
             }
 
-            return new ApiResponse<string>("Customer updated successfully", Guid.NewGuid().ToString(), null);
+            var dataUpdated = await _mediator.Send(new GetCustomerQuery(id));
+            return Ok(new ApiResponse<Customer>("Customer updated successfully", Guid.NewGuid().ToString(), dataUpdated));
         }
 
         // DELETE: api/CRUD/5
@@ -86,10 +95,11 @@ namespace WebAPI.Controllers
 
             if (!deleted)
             {
-                return new ApiResponse<string>("Customer not found", Guid.NewGuid().ToString(), null);
+                return NotFound(new ApiResponse<string>("Customer not found", Guid.NewGuid().ToString(), null));
             }
 
-            return new ApiResponse<string>("Customer deleted successfully", Guid.NewGuid().ToString(), null);
+            var dataUpdated = await _mediator.Send(new GetCustomerQuery(id));
+            return Ok(new ApiResponse<string>("Customer deleted successfully", Guid.NewGuid().ToString(), null));
         }
     }
 }

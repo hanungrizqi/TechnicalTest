@@ -162,3 +162,4 @@ D:\Technical Test\4\WebAPI\WebAPI.Tests\obj\Debug\net8.0\refint\WebAPI.Tests.dll
 D:\Technical Test\4\WebAPI\WebAPI.Tests\obj\Debug\net8.0\WebAPI.Tests.pdb
 D:\Technical Test\4\WebAPI\WebAPI.Tests\obj\Debug\net8.0\WebAPI.Tests.genruntimeconfig.cache
 D:\Technical Test\4\WebAPI\WebAPI.Tests\obj\Debug\net8.0\ref\WebAPI.Tests.dll
+D:\Technical Test\4\WebAPI\WebAPI.Tests\obj\Debug\net8.0\WebAPI.Tests.sourcelink.json
